@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/632645870.svg)](https://zenodo.org/badge/latestdoi/632645870)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7869378.svg)](https://doi.org/10.5281/zenodo.7869378)
 # Code and data for: Effects of sea cucumber fishing on tropical seagrass productivity
 ## Hannah V. Watkins, Rachel B. Munger, Isabelle M. Côté
 
